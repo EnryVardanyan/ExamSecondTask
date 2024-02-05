@@ -1,0 +1,15 @@
+.closeBtn {
+    background-color: #e74c3c;
+    color: #fff; 
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    width:50px;
+  }
+.form{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 300px;
+}
